@@ -3,7 +3,7 @@ Hi, AI enthusiasts! 👋 I'm Safiah, a passionate Artificial Intelligence studen
  ## About Me
 
 - 🧠 Fresh Grad. in a Bachelor's in Computer Science
- at "The Yanbu Industrial College
+ at  Yanbu Industrial College
 . Batch (2019-2024) 
 
 ## Achievements & Awards
