@@ -9,6 +9,7 @@ Hi, AI enthusiasts! 👋 I'm Safiah, a passionate Artificial Intelligence studen
 ## Achievements & Awards
 
 CERTIFICATE OF PARTICIPATION For presenting a Course Project entitled "Slide Game Puzzle" at CSE Dept, Yanbu Industrial College
+
 CERTIFICATE OF PARTICIPATION For presenting a Course project entitled "Rasma" at CSE Dept, Yanbu Industrial College
 
 ## Connect with Me
